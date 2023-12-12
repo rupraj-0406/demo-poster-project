@@ -1,0 +1,42 @@
+/* ⏳now task is make a 
+   auto boilarplate for CSS
+   just like code with harry did in his project 
+   ❌=>✅
+   */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
+
+  div{
+    width: 50%;
+    margin-left: 25%;
+    background-color: black;
+  }
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    text-transform: capitalize;
+    color: antiquewhite;
+    text-align: center;
+}
+  
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+
+img{
+  /* height: 100px; */
+  /* width: 100px; */
+  border-radius: 50%;
+    border: 5px solid white;
+    width: 100%;
+}
