@@ -14,22 +14,26 @@
     width: 100%;
     height: 100%;
   }
-
+body{
+  background-image: url("./assets/images/nice-snow.png");
+  background-color: #009bb0;
+}
   div{
     width: 50%;
     margin-left: 25%;
-    background-color: black;
+    background-image: url("./assets/images/fresh-snow.png");
+    /* background-color: #000; */
   }
 
 h1{
     font-family: "Libre Baskerville", serif;
     text-transform: capitalize;
-    color: antiquewhite;
+    color: #176B87;
     text-align: center;
 }
   
 p{
-    color: whitesmoke;
+    color: #04364A;
     text-align: center;
 }
 
@@ -37,6 +41,6 @@ img{
   /* height: 100px; */
   /* width: 100px; */
   border-radius: 50%;
-    border: 5px solid white;
+    border: 5px solid #009EFF;
     width: 100%;
 }
